@@ -1,0 +1,13 @@
+Arquivo de Teste
+
+Este é um arquivo de teste criado para demonstrar a funcionalidade de um repositório de gestão de configuração.
+
+Objetivo:
+- Armazenar artefatos de projeto.
+- Facilitar o controle de versões.
+- Melhorar a colaboração entre a equipe.
+
+Informações Adicionais:
+- Ferramenta utilizada: Git/GitHub.
+- Data de criação: [insira a data].
+- Responsável: [insira seu nome].
